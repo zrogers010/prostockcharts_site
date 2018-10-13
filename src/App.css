@@ -1,0 +1,35 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px 0;
+	background-color: #222;
+	color: #fff;
+}
+
+.App-tv-logo {
+	height: 45px;
+}
+
+.App-react-logo {
+	display: block;
+	height: 62px;
+}
+
+.App-title {
+	display: block;
+	font-size: 1.5em;
+}
+
+.navbar {
+	height: 40px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 2;
+}
